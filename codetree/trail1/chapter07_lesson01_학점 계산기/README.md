@@ -1,0 +1,6 @@
+# [[개념]학점 계산기](https://www.codetree.ai/trails/complete/curated-cards/intro-credit-calculator)
+
+| 항목 | 내용 |
+|---|---|
+| 분류 | Trail |
+| 커리큘럼 | [Trail 1 / 1차원 배열 / 한 줄에 여러 개 입력](https://www.codetree.ai/trail-info/novice-low/) |
