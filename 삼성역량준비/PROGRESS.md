@@ -1,7 +1,7 @@
 # 학습 진도
 
-- 현재 일자 · Day 1 시작 대기
-- 다음 행동 · [일자별 계획](PLAN.md#1주차--python과-시뮬레이션)에서 **Trail 1 · 8-2 새로운 2차원 배열의 선언 · 두 개의 격자 비교하기**와 **Trail 2 · 1-2 값을 반환하는 함수 · 그 계절, 그 날**을 푼 뒤 **바이러스 검사**로 넘어간다.
+- 현재 일자 · Day 1 진행 중 (2026-11-11)
+- 다음 행동 · [그 계절, 그 날](https://www.codetree.ai/ko/trails/complete/curated-cards/test-that-season-that-day/description) 기록 후 [바이러스 검사](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/virus-detector/description) 풀이
 - 기존 기록 · `codetree/trail2`에 **그 계절, 그 날** 통과 기록이 있다.
 - 학습 시간 · 하루 5~6시간
 - 시험 날짜 및 제한 시간 · 확인 후 기록
@@ -12,6 +12,7 @@
 
 | 날짜 | Day | 구분 | 문제 또는 풀이 폴더 | 결과 | 독립 시도 / 전체 시간 | 힌트·해설 사용 | 막힌 지점과 반례 | 재풀이 날짜 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 2026-11-11 | Day 1 | Trail 1 · 8-2 | [두 개의 격자 비교하기](solutions/trail/trail1/compare-two-grid/README.md) | 독립 통과 (코드트리 정답) | 미기록 / 미기록 | 문제 안내 후 독립 풀이, 제출 후 리뷰 | 기초 진단에서 N×M 조건을 놓침; 제출 오답 없음 | 미정 |
 
 결과는 `시도 중`, `미해결`, `독립 통과`, `도움 후 통과`, `재풀이 통과` 중 하나로 적는다. 모의는 시험 종료 시점의 결과를 남긴다.
 
