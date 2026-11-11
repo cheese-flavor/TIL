@@ -5,7 +5,7 @@
 - 문제 · [코드트리 두 개의 격자 비교하기](https://www.codetree.ai/ko/trails/complete/curated-cards/test-compare-two-grid/description)
 - 결과 · **독립 통과** (학습자가 코드트리 정답 확인)
 - 소요 시간 · 독립 시도 / 전체 모두 미기록
-- 사용자 제출 코드 · [solution.py](solution.py)
+- 사용자 제출 코드 · [solution.py](solution.py) (상단 문제 메타데이터 주석만 추가, 실행 본문 원본 보존)
 - 기록 성격 · 삼성 SW 역량테스트 준비 과정에서 별도로 작성한 학습 기록
 
 ## 문제와 접근

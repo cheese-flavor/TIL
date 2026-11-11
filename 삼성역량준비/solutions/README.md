@@ -1,23 +1,47 @@
-# 문제와 풀이 저장
+# 삼성 SW 역량테스트 — Day별 풀이 보관
 
-문제마다 폴더를 만들어 `README.md`에 코드트리 원문 링크와 풀이 기록을 두고, 직접 제출한 Python 코드를 `solution.py`에 저장한다.
+30일 학습을 **Day 단위 폴더(`day01`, `day02`, …)** 로 관리. 각 Day에 그날 푼 트레일·삼성 기출 코드와 리뷰를 모두 보관. 기존 TIL 루트의 `codetree/` 자동 제출과 별개로 운영.
+
+## 구조
 
 ```text
-solutions/
-  trail/
-    trail2/comfortable-state-on-the-grid/
+삼성역량준비/
+  PLAN.md
+  PROGRESS.md
+  CHAT.md
+  solutions/
+    README.md
+    TEMPLATE.md
+    day01/
       README.md
-      solution.py
-  past/
-    2017/autonomous-driving/
+      trail1/
+        compare-two-grid/
+          solution.py
+          README.md
+      trail2/
+        that-season-that-day/
+          solution.py
+          README.md
+      past/                      # 삼성 기출 풀이 시 생성
+        2015/
+          virus-detector/
+            solution.py
+            README.md
+    day02/                       # Day 2 시작 시 생성
       README.md
-      solution.py
-  TEMPLATE.md
+      ...
 ```
 
-1. 기초 문제는 `trail/trail번호/문제슬러그/`, 기출은 `past/연도/문제슬러그/` 경로를 사용한다.
-2. [문제 기록 양식](TEMPLATE.md)을 복사해 `README.md`를 만들고, 제출 코드를 `solution.py`로 저장한다. 코드트리 연동으로 코드가 이미 TIL에 있다면 기록에서 그 파일에 링크해도 된다.
-3. 제출 결과와 실패 입력을 기록하고 [진도 파일](../PROGRESS.md)에 해당 문제 폴더를 연결한다. 재풀이는 같은 폴더에서 기록을 추가한다. 이전 코드는 Git 이력에서 볼 수 있다.
-4. 집에서 이어갈 때 최신 변경을 받아 `PROGRESS.md`와 해당 문제의 코드 및 회고를 연다.
+## 저장·커밋 규칙
 
-공개 TIL에는 문제의 제목·링크, 직접 작성한 요약·코드·반례를 올린다.
+1. 새 채팅에서 Day가 시작되면 해당 **`solutions/dayNN/`** 폴더 생성. 그날 푼 문제를 모두 이곳에 저장.
+2. 트레일 경로 · `dayNN/trail번호/문제슬러그/`; 삼성 기출 경로 · `dayNN/past/연도/문제슬러그/`.
+3. 각 문제의 **`solution.py` 맨 위 주석**에 Day, Trail·Chapter·Lesson 번호 및 명칭(기출은 연도·레벨), 문제명, **코드트리 URL**과 채점 결과 기재. 실행 가능한 **사용자 제출 원본은 주석 아래 변경 없이 보존**.
+4. 문제별 **`README.md`** 에 핵심 조건, 풀이 접근, 시간·공간 복잡도, 정답 여부, ChatGPT 리뷰, 개선안, 반례 및 검증 범위 기재. [양식](TEMPLATE.md) 참고.
+5. 같은 Day의 **`README.md`** 에 문제 목록·링크·진단·회고 요약. [진도 기록](../PROGRESS.md)도 실제 위치로 연결.
+6. **문제 풀이·코드 리뷰가 끝나는 즉시 문제별로 커밋**. 문서 체계 변경은 별도 커밋. 자동 커밋은 지속 실행되는 백그라운드 작업이 아니라 채팅에서 명시적으로 반영함.
+7. Day 마감 시 학습 회고 및 재풀이 목표 갱신. 코드트리의 정답 기록과 별도 로컬 실행 여부를 구분.
+
+## Day별 목록
+
+- [Day 01 · 2026-11-11](day01/README.md) — 트레일 2문제 정답, 삼성 기출 대기

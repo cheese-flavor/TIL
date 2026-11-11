@@ -2,7 +2,7 @@
 
 - 현재 일자 · Day 1 진행 중 (2026-11-11)
 - 다음 행동 · **삼성 기출 [바이러스 검사](https://www.codetree.ai/ko/frequent-problems/samsung-sw/problems/virus-detector/description)** 직접 풀이 및 제출 (Day 1 남은 기출)
-- 기존 기록 · `codetree/trail2`에 **그 계절, 그 날** 통과 기록이 있다.
+- Day별 학습 기록 · [Day 01 코드·리뷰](solutions/day01/README.md) (기존 `TIL/codetree/`와 별도)
 - 학습 시간 · 하루 5~6시간
 - 시험 날짜 및 제한 시간 · 확인 후 기록
 
@@ -12,8 +12,8 @@
 
 | 날짜 | Day | 구분 | 문제 또는 풀이 폴더 | 결과 | 독립 시도 / 전체 시간 | 힌트·해설 사용 | 막힌 지점과 반례 | 재풀이 날짜 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026-11-11 | Day 1 | Trail 1 · 8-2 | [두 개의 격자 비교하기](solutions/trail/trail1/compare-two-grid/README.md) | 독립 통과 (코드트리 정답) | 미기록 / 미기록 | 문제 안내 후 독립 풀이, 제출 후 리뷰 | 기초 진단에서 N×M 조건을 놓침; 제출 오답 없음 | 미정 |
-| 2026-11-11 | Day 1 | Trail 2 · 1-2 | [그 계절, 그 날](solutions/trail/trail2/that-season-that-day/README.md) | 독립 통과 (코드트리 정답) | 미기록 / 미기록 | 문제 안내 후 독립 풀이, 제출 후 리뷰 | 제출 오답 없음; 윤년 조건·날짜 배열 간결화 제안 | 미정 |
+| 2026-11-11 | Day 1 | Trail 1 · 8-2 | [두 개의 격자 비교하기](solutions/day01/trail1/compare-two-grid/README.md) | 독립 통과 (코드트리 정답) | 미기록 / 미기록 | 문제 안내 후 독립 풀이, 제출 후 리뷰 | 기초 진단에서 N×M 조건을 놓침; 제출 오답 없음 | 미정 |
+| 2026-11-11 | Day 1 | Trail 2 · 1-2 | [그 계절, 그 날](solutions/day01/trail2/that-season-that-day/README.md) | 독립 통과 (코드트리 정답) | 미기록 / 미기록 | 문제 안내 후 독립 풀이, 제출 후 리뷰 | 제출 오답 없음; 윤년 조건·날짜 배열 간결화 제안 | 미정 |
 
 결과는 `시도 중`, `미해결`, `독립 통과`, `도움 후 통과`, `재풀이 통과` 중 하나로 적는다. 모의는 시험 종료 시점의 결과를 남긴다.
 

@@ -1,3 +1,10 @@
+# Day 01 | 2026-11-11
+# Trail 2 | Chapter 01: 함수 | Lesson 02: 값을 반환하는 함수
+# Problem: 그 계절, 그 날
+# URL: https://www.codetree.ai/ko/trails/complete/curated-cards/test-that-season-that-day/description
+# Result: 정답 (사용자 코드트리 채점 확인)
+# 실행 코드는 제출 원본 그대로 보존하고 이 주석 헤더만 추가함.
+
 Y, M, D = map(int, input().split())
 
 # Please write your code here.
