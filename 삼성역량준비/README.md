@@ -4,7 +4,7 @@
 - [삼성 기출 83문제](PROBLEMS.md) · 연도별 유형 집계, 공식 레벨, Python 연습 난도, 문제별 개념
 - [진도와 다음 일자](PROGRESS.md) · 독립 통과 여부, 반례, 재풀이 일정
 - [ChatGPT에서 이어서 공부하기](CHAT.md)
-- [Day별 풀이 코드·리뷰](solutions/README.md) · [Day 01 기록](solutions/day01/README.md)
+- [Day별 풀이 코드·리뷰](solutions/README.md) · [Day 01 기록](solutions/day01/README.md) · [Day 02 기록](solutions/day02/README.md)
 
 코드트리에서 학습하고 채점한다. ChatGPT에서 개념 설명, 힌트, 반례와 코드 검토를 진행한다. Codex는 로드맵과 GitHub 폴더를 관리한다. 집에서는 최신 진도와 로드맵의 오늘 행을 ChatGPT에 붙여 이어간다.
 
