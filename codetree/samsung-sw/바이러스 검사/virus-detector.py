@@ -22,7 +22,7 @@ sum_p = 0
 for i in range(n):
 
     #팀장만으로 가능하게 되면 넘기기
-    if people[i] < tl:
+    if people[i] <= tl:
         continue
         
     #팀원이 필요한 경우
