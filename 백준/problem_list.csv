@@ -1,0 +1,76 @@
+problem_id,title,level,day,assignment_status,study_status,prior_ac,python_status,metadata_status,url
+1000,A+B,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1000
+1001,A-B,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1001
+1271,엄청난 부자2,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1271
+1330,두 수 비교하기,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1330
+2420,사파리월드,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2420
+10039,평균 점수,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/10039
+2845,파티가 끝나고 난 뒤,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2845
+10797,10부제,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/10797
+11365,!밀비 급일,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/11365
+1085,직사각형에서 탈출,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1085
+1267,핸드폰 요금,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1267
+1547,공,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1547
+1075,나누기,4,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1075
+1100,하얀 칸,4,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1100
+1032,명령 프롬프트,5,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1032
+1008,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1008
+2338,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2338
+2438,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2438
+2475,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2475
+2743,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2743
+13866,,2,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/13866
+19698,,2,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/19698
+31403,,2,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/31403
+25628,,2,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/25628
+1284,,3,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1284
+1598,,3,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1598
+2010,,3,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2010
+1076,,4,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1076
+1152,,4,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1152
+1037,,5,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1037
+2557,,1,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2557
+2558,,1,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2558
+2739,,1,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2739
+2741,,1,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2741
+2742,,1,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2742
+13752,,2,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/13752
+10768,,2,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/10768
+11943,,2,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/11943
+14924,,2,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/14924
+1247,,3,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1247
+1703,,3,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1703
+2441,,3,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2441
+1159,,4,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1159
+1173,,4,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1173
+1110,,5,DAY003,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1110
+2744,,1,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2744
+2753,,1,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2753
+3003,,1,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/3003
+4101,,1,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/4101
+4999,,1,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/4999
+11282,,2,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/11282
+11283,,2,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/11283
+15700,,2,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/15700
+27110,,2,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/27110
+2455,,3,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2455
+2476,,3,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2476
+2490,,3,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2490
+1212,,4,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1212
+1225,,4,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1225
+1145,,5,DAY004,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1145
+5522,,1,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/5522
+5717,,1,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/5717
+8393,,1,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/8393
+9086,,1,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/9086
+9498,,1,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/9498
+31867,,2,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/31867
+28352,,2,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/28352
+5575,,2,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/5575
+29807,,2,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/29807
+2501,,3,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2501
+2506,,3,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2506
+2525,,3,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2525
+1233,,4,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1233
+1252,,4,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1252
+1157,,5,DAY005,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1157
