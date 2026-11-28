@@ -1,19 +1,19 @@
 problem_id,title,level,day,assignment_status,study_status,prior_ac,python_status,metadata_status,url
-1000,A+B,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1000
-1001,A-B,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1001
-1271,엄청난 부자2,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1271
-1330,두 수 비교하기,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1330
-2420,사파리월드,1,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2420
-10039,평균 점수,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/10039
-2845,파티가 끝나고 난 뒤,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2845
-10797,10부제,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/10797
-11365,!밀비 급일,2,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/11365
-1085,직사각형에서 탈출,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1085
-1267,핸드폰 요금,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1267
-1547,공,3,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1547
-1075,나누기,4,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1075
-1100,하얀 칸,4,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1100
-1032,명령 프롬프트,5,DAY001,assigned,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1032
+1000,A+B,1,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1000
+1001,A-B,1,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1001
+1271,엄청난 부자2,1,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1271
+1330,두 수 비교하기,1,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1330
+2420,사파리월드,1,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/2420
+10039,평균 점수,2,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/10039
+2845,파티가 끝나고 난 뒤,2,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/2845
+10797,10부제,2,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/10797
+11365,!밀비 급일,2,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/11365
+1085,직사각형에서 탈출,3,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1085
+1267,핸드폰 요금,3,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1267
+1547,공,3,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1547
+1075,나누기,4,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1075
+1100,하얀 칸,4,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1100
+1032,명령 프롬프트,5,DAY001,assigned,accepted,unknown,accepted,unverified,https://acmicpc.net/problem/1032
 1008,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/1008
 2338,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2338
 2438,,1,DAY002,draft,unconfirmed,unknown,unknown,unverified,https://acmicpc.net/problem/2438
